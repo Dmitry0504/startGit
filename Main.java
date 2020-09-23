@@ -7,11 +7,7 @@ public class Main {
         for(int i = 5; i > 0; i--){
         System.out.println("Hello world!!");}
         System.out.println("StartGit");
-	    //check local version!
-	    //new comment
-
-        //new line 1
-
+	ArrrayList<Integer> list = new ArrayList<>();
 
 
     }
