@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         for(int i = 5; i > 0; i--){
         System.out.println("Hello world!!");}
-        
+        int b = 0;
 
     }
 }
